@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://duanwenjun.github.io/2022/05/03/%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E8%8A%82/</loc>
+    
+    <lastmod>2022-05-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://duanwenjun.github.io/2021/05/22/hello-world/</loc>
     
     <lastmod>2021-05-22</lastmod>
@@ -11,7 +18,7 @@
 
   <url>
     <loc>https://duanwenjun.github.io/</loc>
-    <lastmod>2021-05-22</lastmod>
+    <lastmod>2022-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
